@@ -19,7 +19,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 /**
- * A Generalized Suffix Tree, based on the Ukkonen's paper "On-line construction of suffix trees"
+ * A Generalized Suffix Tree, based on Ukkonen's paper "On-line construction of suffix trees"
  * http://www.cs.helsinki.fi/u/ukkonen/SuffixT1withFigs.pdf
  *
  * Allows for fast storage and fast(er) retrieval by creating a tree-based index out of a set of strings.
